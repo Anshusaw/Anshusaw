@@ -1,58 +1,53 @@
-💫 About Me:
-🛠️ Currently Decoupling & Scaling
+⚡ Hi, I'm Anshu
+🚀 Backend Engineer • System Builder • Problem Solver
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Backend+Systems;Spring+Boot+%7C+Microservices+%7C+Cloud;Exploring+Golang+Concurrency;Turning+Ideas+into+High-Performance+Systems" /> </p>
+🧠 About Me
 
-Architecting a high-availability Business Operations Portal leveraging Spring Boot and MySQL to eliminate legacy spreadsheet workflows by 70%.
-+2
+🛠️ Engineering systems, not just projects
 
+⚙️ Building a High-Availability Business Operations Portal
+→ Reduced manual workflows by 70% using Spring Boot + MySQL
+🔐 Implemented JWT Authentication & RBAC
+→ Secure, stateless, production-ready APIs
+📈 Focused on scalability, performance & clean architecture
+🚀 What I’m Working On
+🧩 Decoupled backend architectures
+⚡ High-performance APIs
+☁️ Cloud-ready microservices
+🤝 Open to Collaborate
 
-Hardening entry points with JWT-based Authentication and Role-Based Access Control (RBAC) to ensure stateless, secure API communication.
-+3
+💡 I’m looking to work on:
 
-🤖 Looking to Collaborate On
-
-Distributed Systems and Cloud-Native applications where Java and Spring Data JPA can be pushed to their limits.
-+2
-
-
-Full-Stack Microservices that require seamless integration between RESTful APIs and responsive frontends.
-+1
-
-🧠 Looking for Help With
-Low-level Concurrency and high-performance patterns in Go (Golang) for upcoming enterprise-grade projects.
-
-Optimizing Object Detection models and understanding the mathematical foundations of CNN architectures like YOLO and GoogLeNet.
-
-📈 Currently Learning
-Golang Backend Ecosystem: Mastering syntax, channels, and goroutines for scalable system design.
-
-English for Engineering: Refining communication to bridge the gap between technical complexity and stakeholder clarity.
-
+Distributed Systems
+Cloud-Native Applications
+Full-Stack Microservices
+Performance-critical backend systems
+🧪 Currently Exploring
+⚡ Golang → Goroutines, Channels, Concurrency
+🤖 Computer Vision → YOLO, CNNs
+📐 System Design & Performance Optimization
 💬 Ask Me About
+☕ Java Internals (JVM, Spring, SOLID)
+📊 DSA & Problem Solving (100+ LeetCode)
+🤖 Automation (Reduced workload by 40% using Python)
+🏆 Achievements
+🧠 Smart India Hackathon Participant
+☁️ Oracle Cloud Infrastructure Certified (AI Foundations)
+📈 100+ DSA Problems Solved
+⚙️ Built scalable real-world backend systems
+🛠️ Tech Stack
+<p align="center"> <img src="https://skillicons.dev/icons?i=java,spring,mysql,python,go,js,react,git,github,docker,linux" /> </p>
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Anshusaw&show_icons=true&theme=tokyonight" height="170"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anshusaw&theme=tokyonight" height="170"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshusaw&layout=compact&theme=tokyonight" /> </p>
+🌐 Connect With Me
+<p align="center"> <a href="https://linkedin.com/in/YOUR-LINK"> <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/> </a> </p>
+⚡ Developer Mindset
 
-Java Internals: JVM, Spring IoC, and implementing SOLID principles through OOP.
-+3
+"I don’t just write code. I design systems that scale, perform, and last."
 
+🧩 Fun Fact
 
-Data Structures & Algorithms: Efficient problem-solving with a focus on time and space complexity.
-+2
+⚡ I enjoy breaking complex systems and rebuilding them better.
 
-
-Workflow Automation: How I used Python to reduce manual operational overhead by 40%.
-
-⚡ Technical Highlights
-
-Smart India Hackathon (SIH) participant, thriving in high-pressure, rapid-prototyping environments.
-
-
-Oracle Cloud Infrastructure certified, focusing on AI foundations and cloud scalability.
-
-
-100+ LeetCode/DSA problems solved, focusing on optimal algorithmic patterns.
-
-🌐 Socials:
-[](https://mastodon.social/@Anshu Saw) 
-
-💻 Tech Stack:
-           
-
-📊 GitHub Stats:
+🚀 Profile Views
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Anshusaw&color=blueviolet&style=flat-square" /> </p>
